@@ -11,6 +11,9 @@
 <body>
  
 <div class="container">
+    <nav class="navbar navbar-default">
+        
+    </nav>
    @yield('content')
 </div>
  
